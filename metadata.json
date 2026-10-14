@@ -1,0 +1,6 @@
+{
+  "name": "GLACÉ - Private Auction Salon",
+  "description": "80층 차가운 온실에서 열리는 천사와 악마들의 프라이빗 미식 경매 살롱 GLACÉ(글라세) 공식 안내관",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
